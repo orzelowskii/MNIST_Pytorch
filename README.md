@@ -1,4 +1,4 @@
-# Klasyfikacja cyfr z plików CSV przy użyciu PyTorch
+# Klasyfikacja cyfr ze zdjęć przy użyciu PyTorch
 ## Opis projektu
 Ten projekt dotyczy budowy modelu klasyfikacji cyfr (0-9) na podstawie danych zapisanych w plikach CSV, reprezentujących obrazy cyfr. Projekt został zrealizowany przy użyciu frameworka PyTorch, a główne cele to:
 
